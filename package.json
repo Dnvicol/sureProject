@@ -1,0 +1,17 @@
+{
+  "name": "sureproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.1",
+    "cypress-mochawesome-reporter": "^3.6.1",
+    "playwright-webkit": "1.34"
+  }
+}
